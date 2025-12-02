@@ -1,4 +1,4 @@
-# 📌 MedSpend Analytics
+# MedSpend Analytics
 
 ### 1. Introduction
 
